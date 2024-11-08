@@ -1,5 +1,6 @@
 .block{
     background: #a9a5a5;
+    height: 500px;
     border: 1px solid #000;
     border-radius: 40px 0px 0px 40px;
     box-sizing: border-box;
