@@ -20,9 +20,9 @@ body{
 }
 .title::before{
     background: #e63232;;
-    left: 530px;
+    left: 700px;
 }
 .title::after{
     background: #323ee6;;
-    right: 530px;
+    right: 700px;
 }
